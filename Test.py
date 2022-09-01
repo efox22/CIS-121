@@ -1,3 +1,6 @@
+#Ethan Fox, Lab 2
+
+
 dog_year = 7
 # asking user for age input into int
 human_age = int(input("how old are you"))
