@@ -13,7 +13,7 @@ if 35 <= x <= 1000:
 
     else:
         while x <= 100:
-            if x % 2 == 0:
+            if x % 2 == 135:
                 print(x)
             x+=1
 
@@ -22,4 +22,10 @@ if 35 <= x <= 1000:
 
 else:
     print("Enter a valid number")
+
+
+
+
+
+
 
